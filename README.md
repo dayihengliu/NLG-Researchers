@@ -232,8 +232,9 @@ Researchers：
 Areas: Task-oriented Dialog
 
 Researchers：
-1、[车万翔](http://ir.hit.edu.cn/~car/chinese.htm)，组长
-2、[覃立波](http://ir.hit.edu.cn/~lbqin/), 博士生, Task-oriented Dialog
+
+1. [车万翔](http://ir.hit.edu.cn/~car/chinese.htm)，组长
+2. [覃立波](http://ir.hit.edu.cn/~lbqin/), 博士生, Task-oriented Dialog
 
 ### 哈尔滨工业大学-[机器智能与翻译研究室](http://mitlab.hit.edu.cn/main.htm)
 
