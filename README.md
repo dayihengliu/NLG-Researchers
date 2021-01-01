@@ -227,6 +227,14 @@ Researchers：
 1. [秦兵](http://ir.hit.edu.cn/~qinb/), 教授
 2. [冯骁骋](http://ir.hit.edu.cn/~xcfeng/), 组长
 
+### 哈尔滨工业大学-社会计算与信息检索中心-[语言分析组](http://ir.hit.edu.cn/961.html)
+
+Areas: Task-oriented Dialog
+
+Researchers：
+1、[车万翔](http://ir.hit.edu.cn/~car/chinese.htm)，组长
+2、[覃立波](http://ir.hit.edu.cn/~lbqin/), 博士生, Task-oriented Dialog
+
 ### 哈尔滨工业大学-[机器智能与翻译研究室](http://mitlab.hit.edu.cn/main.htm)
 
 Areas: NMT, Dialog
