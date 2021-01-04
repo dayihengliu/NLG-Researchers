@@ -405,3 +405,10 @@ Researchers:
 1. [Graham Neubig](http://www.cs.cmu.edu/~neulab/publications.html), Professor
 2. [Pengfei Liu](http://pfliu.com/), Posdoc
 
+### University of Washington
+
+Areas: NLG, controllable NLG, unsuperviesed summarization
+
+Researchers:
+
+1. [Ari Holtzman](https://ari-holtzman.github.io/)
